@@ -1,6 +1,7 @@
 class Hello{
-	public static void main(strings args[]){
-		system.out.println("Hello,java world!!!):
-		}
+	public static void main(string, args[]){
+		System.out.println("Hello, JAVA world!!!");
+	}
 }
+
 
