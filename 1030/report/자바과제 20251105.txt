@@ -1,0 +1,33 @@
+오픈 챌린지 LetterHistogram 
+1 StudentApp
+2  BookApp
+3번은 독특함 2개임
+util패키지에 Calc
+main패키지에 mainApp
+
+4번 src
+ ├─ app
+ │   └─ GraphicEditor.java
+ ├─ component
+ │   └─ Circle.java
+ └─ graphic
+     └─ Shape.java
+
+5번GradeAverageSplit 
+GradeAverageTokenizer
+
+6번StringRotate 
+
+7번CalendarPrint 
+
+8번BirthdayDays 
+
+9번 WordPuzzle 
+
+10번WordGame1 
+WordGame2 
+
+
+11번GamblingGame 
+
+12번NumberExpectationGame 
